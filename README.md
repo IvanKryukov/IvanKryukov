@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IvanKryukov
-- 👀 I’m interested in Embedded Software Development
+- 👀 I’m interested in Embedded Software Engineering
 - 🌱 I’m currently learning Embedded Linux and related systems and peripherals (Ethernet, USB, HDMI, etc.)
 - 💞️ I’m not looking to collaborate to smb, it's just for my professional stuff 
 - 📫 How to reach me ... Good question. Just commit something!
